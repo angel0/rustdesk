@@ -20,8 +20,6 @@
 或者[自己设置](https://rustdesk.com/server)，
 亦或者[开发您的版本](https://github.com/rustdesk/rustdesk-server-demo)。
 
-![image](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)
-
 RustDesk 期待各位的贡献. 如何参与开发? 详情请看 [CONTRIBUTING-ZH.md](CONTRIBUTING-ZH.md).
 
 [**FAQ**](https://github.com/rustdesk/rustdesk/wiki/FAQ)
